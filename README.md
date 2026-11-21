@@ -34,7 +34,7 @@ I build **NetSuite customizations, integrations and automation** that stay maint
 | 📅 | 📘 Topic | 🔗 |
 |---|---|---|
 | **Week 29** | New AI Features in NetSuite: from Text Enhance to the Autonomous Suite | [Read](https://github.com/ManojMohite2002/NetSuite-Learning) |
-| **Week 28** | Advanced Saved Search and Performance | [Read](https://github.com/ManojMohite2002/NetSuite-Learning) |
+| **Week 30** | Connecting Claude AI to NetSuite | [Read](https://github.com/ManojMohite2002/NetSuite-Learning) |
 | **Coming** | Field Note #01: Connecting Claude AI to NetSuite | 🚧 |
 
 ---
@@ -69,20 +69,6 @@ I build **NetSuite customizations, integrations and automation** that stay maint
 | **Tooling** | SDF projects, VS Code, multi-environment deployment |
 
 </details>
-
----
-
-## 📌 Featured work
-
-| 🔹 Project | ⚙️ What it does | 🧰 Built with |
-|---|---|---|
-| **Slack Approval Integration** | Approve Purchase Orders from Slack with signature-validated requests | SuiteScript, RESTlet, Slack API |
-| **HR to NetSuite Daily Sync** | Scheduled sync of employee data with layered modules, logging and error handling | Map/Reduce, OAuth 2.0, config-driven design |
-| **Project Profitability Engine** | Reporting with dynamic filters and a modular service layer | Suitelet + RESTlet, governance-aware design |
-| **Vendor Statement Refactor** | Legacy script modernised to SuiteScript 2.1 with paginated UI before PDF/CSV export | Suitelet, N/search, pagination |
-| **ERP Automation Utilities** | Reusable bulk processing, error aggregation, logging | Config-driven mapping, search optimisation |
-
-> 🔒 Client details and production code are never published here. Everything in my public repos is sanitised or built from scratch for learning.
 
 ---
 
